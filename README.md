@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML & CSS<br>💬 Ask me about Web Development<br>⚡ Fun fact : Semi Nocturnal
+🌱 I’m currently learning HTML & CSS<br>
 
 
 ## 🌐 Socials:
